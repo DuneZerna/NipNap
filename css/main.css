@@ -1,0 +1,40 @@
+/*
+    AUTHOR: DUNE ZERNA
+    COMPANY: PROCTORSOLUTIONS.DK
+*/
+
+.box {
+    height: 50vh;
+    width: 50vw;
+    line-height: 50vh;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#one {
+    background-color: red;
+}
+
+#two {
+    background-color: blue;
+}
+
+#three {
+    background-color: yellow;
+}
+
+#four {
+    background-color: green;
+}
+
+footer {
+    width: 100%;
+    height: 6vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+
